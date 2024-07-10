@@ -11,6 +11,8 @@
 		2D3FAE102C3E1E1F005733A3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D3FAE0F2C3E1E1F005733A3 /* ContentView.swift */; };
 		2D3FAE122C3E1E21005733A3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2D3FAE112C3E1E21005733A3 /* Assets.xcassets */; };
 		2D3FAE152C3E1E21005733A3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2D3FAE142C3E1E21005733A3 /* Preview Assets.xcassets */; };
+		2D3FAE1C2C3E2BB8005733A3 /* DetailUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D3FAE1B2C3E2BB8005733A3 /* DetailUIView.swift */; };
+		2D3FAE222C3E4AD4005733A3 /* BattleUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D3FAE212C3E4AD4005733A3 /* BattleUIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		2D3FAE0F2C3E1E1F005733A3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2D3FAE112C3E1E21005733A3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2D3FAE142C3E1E21005733A3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2D3FAE1B2C3E2BB8005733A3 /* DetailUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailUIView.swift; sourceTree = "<group>"; };
+		2D3FAE212C3E4AD4005733A3 /* BattleUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BattleUIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 				2D3FAE0F2C3E1E1F005733A3 /* ContentView.swift */,
 				2D3FAE112C3E1E21005733A3 /* Assets.xcassets */,
 				2D3FAE132C3E1E21005733A3 /* Preview Content */,
+				2D3FAE1B2C3E2BB8005733A3 /* DetailUIView.swift */,
+				2D3FAE212C3E4AD4005733A3 /* BattleUIView.swift */,
 			);
 			path = Pokemon;
 			sourceTree = "<group>";
@@ -138,6 +144,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				2D3FAE102C3E1E1F005733A3 /* ContentView.swift in Sources */,
+				2D3FAE1C2C3E2BB8005733A3 /* DetailUIView.swift in Sources */,
+				2D3FAE222C3E4AD4005733A3 /* BattleUIView.swift in Sources */,
 				2D3FAE0E2C3E1E1F005733A3 /* PokemonApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
